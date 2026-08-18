@@ -1,0 +1,5 @@
+SampleID	sample_name	group	replicate	notes
+barcode01	S01	control	1	
+barcode02	S02	control	2	
+barcode03	S03	treatment	1	
+barcode04	S04	treatment	2	

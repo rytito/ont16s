@@ -1,0 +1,10 @@
+work/
+results/
+test_results/
+.nextflow/
+.nextflow.log*
+*.log
+*.bak
+*.working
+conf/site.yml
+.DS_Store

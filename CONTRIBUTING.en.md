@@ -42,7 +42,4 @@ the symptom for each.
 Extend `bin/setup_databases.sh` and document the memory requirement. Any
 database with over ~1M references needs the `cpu_med` allocation raised.
 
-## Style
 
-Comments should say *why*, not *what*. A comment explaining that a setting
-prevents a specific failure is worth more than one restating the code.

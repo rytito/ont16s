@@ -43,8 +43,5 @@ Extiende `bin/setup_databases.sh` y documenta el requisito de memoria.
 Cualquier base con más de ~1M de referencias necesita subir la asignación de
 `cpu_med`.
 
-## Estilo
 
-Los comentarios deben decir el *porqué*, no el *qué*. Un comentario que explica
-que una configuración previene un fallo específico vale más que uno que repite
-el código.
+

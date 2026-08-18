@@ -155,7 +155,7 @@ foods* — a **VLIR-UOS Short Initiative** (KU Leuven project
 funding reference PE2025SIN468A101, 2025–2027).
 
 - **Coordinating institution:** KU Leuven — Laboratory of Molecular
-  Bacteriology, Rega Institute (promoter: Jeroen Raes)
+  Bacteriology, Rega Institute 
 - **Partner institutions:** Universidad Nacional del Centro del Perú (UNCP)
   and Andean micro-producer communities
 - **Funding:** VLIR-UOS (Vlaamse Interuniversitaire Raad), Short Initiatives
